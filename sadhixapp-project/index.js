@@ -3,7 +3,7 @@
     const port = 3000;
 
     app.get('/', (req, res) => {
-      res.send('Hello from Dockerized Node.js app in DOCKER TESTTING sadhixapp newtesting');
+      res.send('Hello from Dockerized Node.js Welcome to Sadhix Institute');
     });
 
     app.listen(port, () => {
